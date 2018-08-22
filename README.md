@@ -14,7 +14,12 @@ Asesorar a uno de los miembros de la Asociación Nacional de Pequeños Comercian
 
 ## Proceso de investigación
 
-Para conocer nuestro emprendimiento realizamos una entrevista en profundidad con la presidenta de la asociación de Nacional de Pequeños Comerciate. De esta forma, conocimos en profundidad como funciona su asociación, los requisitos que deben cumplir los emprendedores para ser parte de ella y cuales eran las motivaciones 
+Para conocer nuestro emprendimiento realizamos una <b>entrevista en profundidad</b> con la presidenta de la asociación de Nacional de Pequeños Comerciate. De esta forma, conocimos como funciona su asociación, los requisitos que deben cumplir los emprendedores para ser parte de ella y cuales eran las motivaciones para solicitar la asesoria. 
+
+Uno de los beneficios que tiene pertenecer a la asociación es que está te otorga un sitio web, con pago de hosting y dominio por dos años para los emprendimientos, con el fin de que estos puedan aumentar las ganancias y llegar a otros publicos.
+
+También, realizamos una entrevista a la emprendora Marlenne. Esta nos conto 
+
 
 
 ### Problemas identificados en la investigación (del cliente y del usuario)
@@ -47,11 +52,11 @@ Luego de revisar las cuenta de Instagram de MalaMadreStore identificamos tres pr
 ### Definición del público objetivo
 
 <p align="center">
-  <img src="img/userpersona-ana.png">
+  <img src="img/userpersona-ana.PNG">
 </p>
 
 <p align="center">
-  <img src="img/userpersona-patricia.PNG">
+   <img src="img/userpersona-patricia.PNG">
 </p>
 
 <p align="center">
