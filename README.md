@@ -50,12 +50,14 @@ Luego de revisar las cuenta de Instagram de MalaMadreStore identificamos tres pr
 </p>
 
 <p align="center">
-  <img width="380" height="524" src="https://github.com/ConstanzaGarcia/scl-2018-01-ux-marketplace/blob/master/img/capturapantallamalamadrepc.PNG">
+  <img src="img/userpersona-pedro.PNG">
 </p>
 
+### Customer Journey Map
 
-
-
+<p align="center">
+  <img src="img/customerjourneymap.PNG">
+</p>
 
 
 
