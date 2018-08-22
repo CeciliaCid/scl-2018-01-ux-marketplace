@@ -5,7 +5,7 @@ En Chile existen alrededor de 1.992.578 microemprendedores, formales o informale
 Solo el 39,2% es liderado por mujeres, este es el caso de <b> Mala Madre Store </b>. El emprendimiento de Marlenne Peña, consiste en la confección de monederos, estuches, fundas para laptop, tablet, morrales y totebag, además de cojines decorativos con formas de animales. Todos utilizan la técnica de la sublimación y son elaborados 100 % por las manos de su dueña.
 
 <p align="center">
-  <img width="300" height="500" src="https://github.com/ConstanzaGarcia/scl-2018-01-ux-marketplace/blob/master/img/capturapantallamalamadrepc.PNG">
+  <img width="380" height="524" src="https://github.com/ConstanzaGarcia/scl-2018-01-ux-marketplace/blob/master/img/capturapantallamalamadrepc.PNG">
 </p>
 
 
@@ -21,6 +21,27 @@ Las entregas las realiza solo los días sábado a las 13:30 en el metro Quinta N
 Los usuarios que no pueden ese día deben gestionar una posible entrega en metro Irarrazaval donde la pareja de Marlenne tiene su trabajo y si eres de región, puedes gestionar envió por pagar a través de starken.
 Ambas opciones de entrega en Santiago, limitan al público que quiere adquirir un producto de un día para otro o en menos tiempo, que tener que esperar el día sábado
 En sus redes sociales, no existe un catalogo con precios, productos, medidas de productos que permitan a los usuarios ver todo lo que pueden adquirir de la tienda. Esto lleva a que MalaMadreStore, tenga menos venta porque pierde clientes al no dejar clara esta información y que no se dan el trabajo de revisar su Instagram para ver todo lo que hace. 
+
+|Problema 1 |Problema 2| Problema 3|
+|:----|:---|:---:|
+|Solo una red social: Instagram| Hora y día de entrega:
+Sábado 13:30 hrs. metro Quinta Normal| No existe catálogo de productos |
+
+|Solución 1 |Solución 2| Solución 3|
+|:----|:---|:---:|
+|Abrir cuentas en otras redes sociales como Facebook para llegar a otros públicos.|Gestionar un sistema de entregas amigable que funcione otros días a la semana | Gestionar un catálogo con medidas, precios, diseños de todos los productos que realiza. |
+
+Luego de revisar las cuenta de Instagram de MalaMadreStore identificamos tres problemas: 
+
+|Problema 1 |Problema 2| Problema 3|
+|:----|:---|:---:|
+|No existe una transparencia en los precios.
+Cuando una persona consulta el valor la emprendedora responde que por interno. Lo que obligatoriamente lleva a que le debas escribir.| No se sabe claramente cuáles son todos los productos que ella confecciona debido a que encuentras una gran variedad de artículos si revisas sus fotos de instagram. | No está claro la forma de compra ni de pago al momento de ingresar a la cuenta de instagram.|
+
+|Solución 1 |Solución 2 | Solución 3|
+|:----|:---|:---:|
+|
+Catalogo con precios claros |Catálogo con todos los productos que ella realiza con diseños y medidas| Gestionar un carrito de compra con detalle y pago online de los productos. |
 
 
 # Plataforma de ventas en línea
@@ -214,9 +235,10 @@ Antes de empezar a realizar estas actividades tendrás que sustentar con tu coac
 o jedi master cómo es que distribuirás estos puntos en estas actividades.
 El coach o jedi master te dará el ok para que puedas empezar.
 
-|Actividad|Descripción|Puntos|
+|Problema 1 |Problema 2| Problema 3|
 |:----|:---|:---:|
-|Entendimiento del problema, la industria y el contexto| Entender el contexto del negocio y lo que existe hoy en día respecto de la industria del proyecto. | 15 |
+|Solo una red social: Instagram| Hora y día de entrega:
+Sábado 13:30 hrs. metro Quinta Normal| No existe catálogo de productos |
 |Entrevistas con cliente|Realización de entrevistas con el cliente (dueño del reto) y establecimiento de sus metas y objetivos.|25|
 |Benchmark| Revisión de features de la competencia y referencias análogas. | 20 |
 |Entrevistas con usuarios| Entrevistas en profundidad con al menos 5 usuarios. | 60 |
