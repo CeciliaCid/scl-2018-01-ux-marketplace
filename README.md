@@ -2,14 +2,22 @@
 
 En Chile existen alrededor de 1.992.578 microemprendedores, formales o informales,de acuerdo a la V Encuesta de Microemprendimiento (EME) 2017, realizada por el Ministerio de Economía y el Instituto Nacional de Estadísticas (INE).
 
-Solo el 39,2% es liderado por mujeres, este es el caso de <b> Mala Madre Store </b>. El emprendimiento de Marlenne Peña, que consiste en la confección de monederos, estuches, fundas para laptop, tablet, morrales y totebag, además de cojines decorativos con formas de animales. Todos utilizan la técnica de la sublimación y son elaborados 100 % por las manos de su dueña.
+Solo el 39,2% es liderado por mujeres, este es el caso de <b> Mala Madre Store </b>. El emprendimiento de Marlenne Peña, consiste en la confección de monederos, estuches, fundas para laptop, tablet, morrales y totebag, además de cojines decorativos con formas de animales. Todos utilizan la técnica de la sublimación y son elaborados 100 % por las manos de su dueña.
 
-<p align="center"> ![alt text](img/capturapantallamalamadrepc.PNG) </p>
+->![alt text](img/capturapantallamalamadrepc.PNG)<-
 
 <h3> Objetivos del proyecto </h3>
 Asesorar a uno de los miembros de la Asociación Nacional de Pequeños Comerciantes en la creación de un portal desde donde los consumidores adquieran sus productos sin intermediarios. 
 
 
+### Problemas identificados en la investigación (del cliente y del usuario)
+
+Luego de una entrevista con el emprendimiento identificamos que:
+MalaMadreStore está inserto solo en una red social: Instagram, esto limita su público a solo los usuarios de esa red. 
+Las entregas las realiza solo los días sábado a las 13:30 en el metro Quinta Normal, previo abono de al menos el 50 % del total de la compra. 
+Los usuarios que no pueden ese día deben gestionar una posible entrega en metro Irarrazaval donde la pareja de Marlenne tiene su trabajo y si eres de región, puedes gestionar envió por pagar a través de starken.
+Ambas opciones de entrega en Santiago, limitan al público que quiere adquirir un producto de un día para otro o en menos tiempo, que tener que esperar el día sábado
+En sus redes sociales, no existe un catalogo con precios, productos, medidas de productos que permitan a los usuarios ver todo lo que pueden adquirir de la tienda. Esto lleva a que MalaMadreStore, tenga menos venta porque pierde clientes al no dejar clara esta información y que no se dan el trabajo de revisar su Instagram para ver todo lo que hace. 
 
 
 # Plataforma de ventas en línea
