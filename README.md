@@ -18,9 +18,22 @@ Para conocer nuestro emprendimiento realizamos una <b>entrevista en profundidad<
 
 Uno de los beneficios que tiene pertenecer a la asociación es que está te otorga un sitio web, con pago de hosting y dominio por dos años para los emprendimientos, con el fin de que estos puedan aumentar las ganancias y llegar a otros publicos.
 
-También, realizamos una entrevista a la emprendora Marlenne. Esta nos conto 
+También, realizamos una entrevista a la emprendora Marlenne. Esta nos conto sobre las motivaciones para emprender, en que consistia su trabajo y de que forma lo lleva a cabo día a día.
 
 
+<p align="center"> Perfil del emprendimiento y al emprendedora </p>
+
+<p align="center">
+  <img src="https://github.com/ConstanzaGarcia/scl-2018-01-ux-marketplace/blob/master/img/perfildelcliente.jpeg">
+</p>
+
+Luego, hicimos una revisión de la red social en la que funciona el emprendiminto. En ella pudimos conocer sobre cuales eran los productos que realiza, los materiales que utiliza, las telas y la forma en que administra los post y comentarios.
+
+Nos existe una periocidad en la publicación de los contenidos, tampoco se dan a conocer los valores de los productos de forma publica si no que a través de un mensaje interno. La cuenta tiene publicaciones desde marzo del año 2018 y ya cuenta con 2986 seguidores a la fecha.
+
+A través de los comentarios, identificamos que no existe una respuesta tipo para acercarse a las personas que solicitan más información como valores o donde entrega. 
+
+Consideramos que la información anterior ya nos permite identificar cual es el problema del emprendimiento y como nosotras podemos constuibuir en su bienestar.
 
 ### Problemas identificados en la investigación (del cliente y del usuario)
 
@@ -51,22 +64,39 @@ Luego de revisar las cuenta de Instagram de MalaMadreStore identificamos tres pr
 
 ### Definición del público objetivo
 
-<p align="center">
+De acuerdo a lo conversado con nuestra emprendedora y posterior a la experiencia de ser un cliente incognico, identificamos quienes eran los tres tipos de usuarios que se acercan a las red social de mala madre para adquirir sus trabajos. 
+
+Realizamos un <b>user persona</b>, que representa los poteciales compradores. Con esto esperamos comenzar a generar contenido en el sitio web para ofrecer una solución a un problema que tienen los clientes. 
+
+Complementamos esta parte con un <b>customer journey map </b>, que nos permite analizar el ciclo de compra desde la perspectiva del cliente, cómo este se siente, qué expectativas tiene entre otras cosas. 
+
+<p align="center"> Perfil del user persona uno y customer journey map </p>
+
+<p align="center"> 
   <img src="https://github.com/ConstanzaGarcia/scl-2018-01-ux-marketplace/blob/master/img/userpersona-ana.png">
 </p>
+
+<p align="center">
+  <img src="https://github.com/ConstanzaGarcia/scl-2018-01-ux-marketplace/blob/master/img/customerjourneymaana.PNG">
+</p>
+
+<p align="center"> Perfil del user persona dos y customer journey map </p>
 
 <p align="center">
    <img src="https://github.com/ConstanzaGarcia/scl-2018-01-ux-marketplace/blob/master/img/userpersona-patricia.PNG">
 </p>
 
+<p align="center"> 
+<img src="https://github.com/ConstanzaGarcia/scl-2018-01-ux-marketplace/blob/master/img/customerjourneymappatricia.PNG"> </p>
+
+<p align="center"> Perfil del user persona tres y customer journey map </p>
+
 <p align="center">
-  <img src="img/userpersona-pedro.PNG">
+  <img src="https://github.com/ConstanzaGarcia/scl-2018-01-ux-marketplace/blob/master/img/userpersona-pedro.PNG">
 </p>
 
-### Customer Journey Map
-
 <p align="center">
-  <img src="img/customerjourneymap.PNG">
+  <img src="https://github.com/ConstanzaGarcia/scl-2018-01-ux-marketplace/blob/master/img/customerjourneymappedro.PNG">
 </p>
 
 
@@ -77,6 +107,43 @@ Por ello, vamos a crear un sitio web para concretar las ventas a través de un s
 Se abrirá una cuenta en Facebook que se complementará con la de Instagram que ya existe y su uso será solo para difusión y promoción de los productos, complementado con las experiencias de otras personas que ya lo hayan adquirido. 
 Con esto, esperamos que exista un proceso más expedito y flexible para comprar y despachar los productos. A su vez esperamos que de esta forma pueda llevar un flujo más ordenado de sus ventas. 
 
+Para ello realizamos un inventario de todos los contenidos que incluira el sitio, identificando una lista de más de 40 productos que confecciona Mala Madre Store.
+
+
+[aqui lista]
+
+
+Una vez realizado este trabajo, hicimos un mapa del sitio con la organización de los contenidos que vamos a incluir en la construcción del nuevo portal según el viaje que realiza el usuario. 
+
+<p align="center">
+  <img src="https://github.com/ConstanzaGarcia/scl-2018-01-ux-marketplace/blob/master/img/arboldecontenidos.png">
+</p>
+
+En este mapa del sitio planteamos el contenido utilizando la estructura en red, donde todas las páginas estan relacionadas entre si y permiten al usuario ir navegando de forma libre por el sitio pero a su vez, una vez que ingresan al carro de compras se encuentran con una estructura lineal donde solo siguien cada paso podrán concretar su compra.
+
+
+<p align="center">
+  <img src="">
+</p>
+
+Con esta información realizamos un prototipo de baja fidelidad.
+
+<p align="center">
+  <img src="https://github.com/ConstanzaGarcia/scl-2018-01-ux-marketplace/blob/master/img/2018-08-20-145903.jpg">
+</p>
+
+<p align="center">
+  <img src="https://github.com/ConstanzaGarcia/scl-2018-01-ux-marketplace/blob/master/img/2018-08-20-150217.jpg">
+</p>
+
+<p align="center">
+  <img src="https://github.com/ConstanzaGarcia/scl-2018-01-ux-marketplace/blob/master/img/2018-08-20-150334.jpg">
+</p>
+
+<p align="center">
+  <img src="https://github.com/ConstanzaGarcia/scl-2018-01-ux-marketplace/blob/master/img/2018-08-20-150805.jpg
+">
+</p>
 
 
 Link a prototipo navegable
