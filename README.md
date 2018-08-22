@@ -116,7 +116,7 @@ Para ello realizamos un inventario de todos los contenidos que incluira el sitio
 Una vez realizado este trabajo, hicimos un mapa del sitio con la organización de los contenidos que vamos a incluir en la construcción del nuevo portal según el viaje que realiza el usuario. 
 
 <p align="center">
-  <img src="">
+  <img src="https://github.com/ConstanzaGarcia/scl-2018-01-ux-marketplace/blob/master/img/arboldecontenidos.png">
 </p>
 
 En este mapa del sitio planteamos el contenido utilizando la estructura en red, donde todas las páginas estan relacionadas entre si y permiten al usuario ir navegando de forma libre por el sitio pero a su vez, una vez que ingresan al carro de compras se encuentran con una estructura lineal donde solo siguien cada paso podrán concretar su compra.
@@ -128,6 +128,22 @@ En este mapa del sitio planteamos el contenido utilizando la estructura en red, 
 
 Con esta información realizamos un prototipo de baja fidelidad.
 
+<p align="center">
+  <img src="https://github.com/ConstanzaGarcia/scl-2018-01-ux-marketplace/blob/master/img/2018-08-20-145903.jpg">
+</p>
+
+<p align="center">
+  <img src="https://github.com/ConstanzaGarcia/scl-2018-01-ux-marketplace/blob/master/img/2018-08-20-150217.jpg">
+</p>
+
+<p align="center">
+  <img src="https://github.com/ConstanzaGarcia/scl-2018-01-ux-marketplace/blob/master/img/2018-08-20-150334.jpg">
+</p>
+
+<p align="center">
+  <img src="https://github.com/ConstanzaGarcia/scl-2018-01-ux-marketplace/blob/master/img/2018-08-20-150805.jpg
+">
+</p>
 
 
 Link a prototipo navegable
