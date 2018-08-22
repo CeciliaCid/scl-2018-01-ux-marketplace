@@ -43,10 +43,6 @@ Consideramos que la información anterior ya nos permite identificar cual es el 
 
 ### Problemas identificados en la investigación (del cliente y del usuario)
 
-<p align="center">
-  <img src="https://github.com/ConstanzaGarcia/scl-2018-01-ux-marketplace/blob/master/img/sintesis%20de%20malamadre.jpeg">
-</p>
-
 Luego de una entrevista con el emprendimiento identificamos que:
 * MalaMadreStore está <b> inserto solo en una red social </b> : Instagram, esto limita su público a solo los usuarios de esa red. 
 * Las  <b>entrega</b>s las realiza solo los días <b>sábado a las 13:30 en el metro Quinta Normal</b>, previo abono de al menos el 50 % del total de la compra. 
@@ -71,6 +67,12 @@ Luego de revisar las cuenta de Instagram de MalaMadreStore identificamos tres pr
 |Solución 1 |Solución 2 | Solución 3|
 |:----|:---|:---:|
 |Catalogo con precios claros |Catalogo con todos los productos que ella realiza con diseños y medidas| Gestionar un carrito de compra con detalle y pago online de los productos. |
+
+
+<p align="center">
+  <img src="https://github.com/ConstanzaGarcia/scl-2018-01-ux-marketplace/blob/master/img/WhatsApp%20Image%202018-08-22%20at%2016.08.20.jpeg">
+</p>
+
 
 ### Definición del público objetivo
 
@@ -151,12 +153,25 @@ Con esta información realizamos un prototipo de baja fidelidad.
 </p>
 
 <p align="center">
-  <img src="https://github.com/ConstanzaGarcia/scl-2018-01-ux-marketplace/blob/master/img/2018-08-20-150805.jpg
-">
+  <img src="https://github.com/ConstanzaGarcia/scl-2018-01-ux-marketplace/blob/master/img/2018-08-20-150805.jpg">
 </p>
 
 
-Link a prototipo navegable
+## Prototipo navegable
+
+Luego de testear el prototipo de baja fidelidad, creamos el prototipo de alta que también testeamos con un nuevo publico.
+
+A continuación la demostración del prototipo de alta fidelidad.
+
+[Prototipo marvel](https://marvelapp.com/e9a1g69/screen/4698804/)
+
+<iframe src="https://marvelapp.com/e9a1g69?emb=1&iosapp=false&frameless=false" width="390" height="755" allowTransparency="true" frameborder="0"></iframe>
+
+
+Si deseas conocer más sobre nuestro aprendizaje te invitamos a leer nuestro post en [Medium](medium.com/laboratoria-how-to/api-web-storage-ad9b1efa9b01)
+
+
+
 Explicación de cómo los contenidos y funcionalidades responden a los objetivos del proyecto.
 
 Explicación de cómo los contenidos y funcionalidades resuelven cada uno de las necesidades del usuario final.
