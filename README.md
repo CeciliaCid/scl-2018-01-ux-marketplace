@@ -52,11 +52,11 @@ Luego de revisar las cuenta de Instagram de MalaMadreStore identificamos tres pr
 ### Definición del público objetivo
 
 <p align="center">
-  <img src="img/userpersona-ana.PNG">
+  <img src="https://github.com/ConstanzaGarcia/scl-2018-01-ux-marketplace/blob/master/img/userpersona-ana.png">
 </p>
 
 <p align="center">
-   <img src="img/userpersona-patricia.PNG">
+   <img src="https://github.com/ConstanzaGarcia/scl-2018-01-ux-marketplace/blob/master/img/userpersona-patricia.PNG">
 </p>
 
 <p align="center">
