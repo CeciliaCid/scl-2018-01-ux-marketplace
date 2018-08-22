@@ -1,6 +1,6 @@
 # Plataforma de ventas en línea
 
-En Chile existen alrededor de 1.992.578 microemprendedores, formales o informales,de acuerdo a la V Encuesta de Microemprendimiento (EME) 2017, realizada por el Ministerio de Economía y el Instituto Nacional de Estadísticas (INE).
+En Chile existen alrededor de 1.992.578 microemprendedores, formales o informales, de acuerdo a la V Encuesta de Microemprendimiento (EME) 2017, realizada por el Ministerio de Economía y el Instituto Nacional de Estadísticas (INE).
 
 Solo el 39,2% es liderado por mujeres, este es el caso de [Mala Madre Store](https://www.instagram.com/malamadrestore/).
 El emprendimiento de Marlenne Peña, consiste en la confección de monederos, estuches, fundas para laptop, tablet, morrales y totebag, además de cojines decorativos con formas de animales. Todos utilizan la técnica de la sublimación y son elaborados 100 % por las manos de su dueña.
@@ -11,6 +11,11 @@ El emprendimiento de Marlenne Peña, consiste en la confección de monederos, es
 
 <h3> Objetivos del proyecto </h3>
 Asesorar a uno de los miembros de la Asociación Nacional de Pequeños Comerciantes en la creación de un portal desde donde los consumidores adquieran sus productos sin intermediarios. 
+
+## Proceso de investigación
+
+Para conocer nuestro emprendimiento realizamos una entrevista en profundidad con la presidenta de la asociación de Nacional de Pequeños Comerciate. De esta forma, conocimos en profundidad como funciona su asociación, los requisitos que deben cumplir los emprendedores para ser parte de ella y cuales eran las motivaciones 
+
 
 ### Problemas identificados en la investigación (del cliente y del usuario)
 
