@@ -165,14 +165,4 @@ A continuación la demostración del prototipo de alta fidelidad.
 
 [Prototipo marvel](https://marvelapp.com/e9a1g69/screen/4698804/)
 
-<iframe src="https://marvelapp.com/e9a1g69?emb=1&iosapp=false&frameless=false" width="390" height="755" allowTransparency="true" frameborder="0"></iframe>
-
-
 Si deseas conocer más sobre nuestro aprendizaje te invitamos a leer nuestro post en [Medium](medium.com/laboratoria-how-to/api-web-storage-ad9b1efa9b01)
-
-
-
-Explicación de cómo los contenidos y funcionalidades responden a los objetivos del proyecto.
-
-Explicación de cómo los contenidos y funcionalidades resuelven cada uno de las necesidades del usuario final.
-Link de Zeplin, InVision inspects o Marvel Hand-offs para compartir tus diseños con desarrolladores.
