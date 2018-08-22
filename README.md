@@ -4,7 +4,7 @@ En Chile existen alrededor de 1.992.578 microemprendedores, formales o informale
 
 Solo el 39,2% es liderado por mujeres, este es el caso de <b> Mala Madre Store </b>. El emprendimiento de Marlenne Peña, que consiste en la confección de monederos, estuches, fundas para laptop, tablet, morrales y totebag, además de cojines decorativos con formas de animales. Todos utilizan la técnica de la sublimación y son elaborados 100 % por las manos de su dueña.
 
-![alt text](img/capturapantallamalamadrepc.PNG)
+<p align="center"> ![alt text](img/capturapantallamalamadrepc.PNG) </p>
 
 <h3> Objetivos del proyecto </h3>
 Asesorar a uno de los miembros de la Asociación Nacional de Pequeños Comerciantes en la creación de un portal desde donde los consumidores adquieran sus productos sin intermediarios. 
