@@ -35,7 +35,17 @@ A través de los comentarios, identificamos que no existe una respuesta tipo par
 
 Consideramos que la información anterior ya nos permite identificar cual es el problema del emprendimiento y como nosotras podemos constuibuir en su bienestar.
 
+<p align="center"> Sintesis del emprendimiento </p>
+
+<p align="center">
+  <img src="https://github.com/ConstanzaGarcia/scl-2018-01-ux-marketplace/blob/master/img/sintesis%20de%20malamadre.jpeg">
+</p>
+
 ### Problemas identificados en la investigación (del cliente y del usuario)
+
+<p align="center">
+  <img src="https://github.com/ConstanzaGarcia/scl-2018-01-ux-marketplace/blob/master/img/sintesis%20de%20malamadre.jpeg">
+</p>
 
 Luego de una entrevista con el emprendimiento identificamos que:
 * MalaMadreStore está <b> inserto solo en una red social </b> : Instagram, esto limita su público a solo los usuarios de esa red. 
