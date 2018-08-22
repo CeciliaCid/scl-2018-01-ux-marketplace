@@ -18,7 +18,14 @@ Para conocer nuestro emprendimiento realizamos una <b>entrevista en profundidad<
 
 Uno de los beneficios que tiene pertenecer a la asociación es que está te otorga un sitio web, con pago de hosting y dominio por dos años para los emprendimientos, con el fin de que estos puedan aumentar las ganancias y llegar a otros publicos.
 
-También, realizamos una entrevista a la emprendora Marlenne. Esta nos conto 
+También, realizamos una entrevista a la emprendora Marlenne. Esta nos conto sobre las motivaciones para emprender, en que consistia su trabajo y de que forma lo lleva a cabo día a día.
+
+
+<p align="center"> Perfil del Cliente </p>
+
+<p align="center">
+  <img src="https://github.com/CeciliaCid/scl-2018-01-ux-marketplace/blob/master/img/WhatsApp%20Image%202018-08-10%20at%2012.47.18.jpeg">
+</p>
 
 
 
