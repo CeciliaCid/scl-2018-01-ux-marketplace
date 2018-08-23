@@ -41,6 +41,13 @@ Consideramos que la información anterior ya nos permite identificar cual es el 
   <img src="https://github.com/ConstanzaGarcia/scl-2018-01-ux-marketplace/blob/master/img/sintesis%20de%20malamadre.jpeg">
 </p>
 
+También en nuestro proceso de investigación realizamos un <b>Benchmark</b>, en el que comparamos otros emprendimientos similares que tienen página web y venden de forma online. 
+
+<p align="center">
+  <img src="https://github.com/ConstanzaGarcia/scl-2018-01-ux-marketplace/blob/master/img/benchmark.PNG">
+</p>
+
+
 ### Problemas identificados en la investigación (del cliente y del usuario)
 
 Luego de una entrevista con el emprendimiento identificamos que:
@@ -72,6 +79,8 @@ Luego de revisar las cuenta de Instagram de MalaMadreStore identificamos tres pr
 <p align="center">
   <img src="https://github.com/ConstanzaGarcia/scl-2018-01-ux-marketplace/blob/master/img/WhatsApp%20Image%202018-08-22%20at%2016.08.20.jpeg">
 </p>
+
+
 
 
 ### Definición del público objetivo
