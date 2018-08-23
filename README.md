@@ -1,9 +1,9 @@
 # Plataforma de ventas en línea
 
-En Chile existen alrededor de 1.992.578 microemprendedores, formales o informales, de acuerdo a la V Encuesta de Microemprendimiento (EME) 2017, realizada por el Ministerio de Economía y el Instituto Nacional de Estadísticas (INE).
+En Chile existen alrededor de <b>1.992.578 microemprendedores,</b> formales o informales, de acuerdo a la V Encuesta de Microemprendimiento (EME) 2017, realizada por el Ministerio de Economía y el Instituto Nacional de Estadísticas (INE).
 
 Solo el 39,2% es liderado por mujeres, este es el caso de [Mala Madre Store](https://www.instagram.com/malamadrestore/).
-El emprendimiento de Marlenne Peña, consiste en la confección de monederos, estuches, fundas para laptop, tablet, morrales y totebag, además de cojines decorativos con formas de animales. Todos utilizan la técnica de la sublimación y son elaborados 100 % por las manos de su dueña.
+El emprendimiento de Marlenne Peña, consiste en la confección de monederos, estuches, fundas para laptop, tablet, morrales, totebag, además de cojines decorativos con formas de animales. Todos utilizan la técnica de la sublimación y son elaborados 100 % por las manos de su dueña.
 
 <p align="center">
   <img width="380" height="524" src="https://github.com/ConstanzaGarcia/scl-2018-01-ux-marketplace/blob/master/img/capturapantallamalamadrepc.PNG">
