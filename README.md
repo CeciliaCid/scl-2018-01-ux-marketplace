@@ -129,22 +129,17 @@ Por ello, vamos a <b>crear un sitio web para concretar las ventas a través de u
 Se abrirá una cuenta en Facebook que se complementará con la de Instagram que ya existe y su uso será solo para difusión y promoción de los productos, complementado con posteos y/o publicaciones con las experiencias de otras personas que ya hayan adquirido alguno de sus productos. 
 Con esto, esperamos que exista un proceso más expedito y flexible para comprar y despachar los productos de Mala Madre Store. A su vez esperamos que de esta forma pueda llevar un flujo más ordenado de sus ventas y en un período de seis meses comience a ver un incremento en sus ventas.
 
-Para la construcción del sitio web, realizamos un inventario de todos los contenidos que se incluirán en el sitio. Mala Madre realiza más de 40 productos que varían según sus telas y tamaños.
+Para la construcción del sitio web, realizamos un inventario de todos los contenidos que se incluirán en el sitio. Mala Madre realiza más de 40 productos que varían según sus telas y tamaños. Si quieres revisar la lista complenta ingresa [aquí](https://docs.google.com/spreadsheets/d/1h5-4zg4A61DLnyGbG_3oXJaiLcN2DqwU1KyW3f3Vp98/edit?usp=sharing).
 
 Una vez realizado este trabajo, hicimos un mapa del sitio con la organización de los contenidos que vamos a incluir en la construcción del nuevo portal según el viaje que realiza el usuario. 
 
 <p align="center">
-  <img src="https://github.com/ConstanzaGarcia/scl-2018-01-ux-marketplace/blob/master/img/arboldecontenidos.png">
+  <img src="https://github.com/ConstanzaGarcia/scl-2018-01-ux-marketplace/blob/master/img/mapadelsitiodos.PNG">
 </p>
 
 En este mapa del sitio planteamos el contenido utilizando la estructura en red, donde todas las páginas estan relacionadas entre si y permiten al usuario ir navegando de forma libre por el sitio pero a su vez, una vez que ingresan al carro de compras se encuentran con una estructura lineal donde solo siguien cada paso podrán concretar su compra.
 
-
-<p align="center">
-  <img src="">
-</p>
-
-Con esta información realizamos un prototipo de baja fidelidad.
+Con esta información realizamos un prototipo de baja fidelidad. El que mostramos a continuación:
 
 <p align="center">
   <img src="https://github.com/ConstanzaGarcia/scl-2018-01-ux-marketplace/blob/master/img/2018-08-20-145903.jpg">
@@ -163,12 +158,16 @@ Con esta información realizamos un prototipo de baja fidelidad.
 </p>
 
 
+Realizamos un testeo de este prototipo asignandole una tarea de comprar un producto,revisa los test de baja [aquí](https://www.youtube.com/watch?v=-QvGOP4ZNi8&list=PLG0Lqf-2jOXephT_YMdbVMLlv6mSsXwd0)
+
 ## Prototipo navegable
 
-Luego de testear el prototipo de baja fidelidad, creamos el prototipo de alta que también testeamos con un nuevo publico.
+Luego de testear el prototipo de baja fidelidad, iteramos de acuerdo al feedback que recibimos de nuestros usuarios y creamos el prototipo de alta que también testeamos con un nuevo publico.
 
 A continuación la demostración del prototipo de alta fidelidad.
 
 [Prototipo marvel](https://marvelapp.com/e9a1g69/screen/4698804/)
+
+Revisa los test de alta [aquí](https://www.youtube.com/watch?v=KJjNfOepMVw&list=PLG0Lqf-2jOXc9ukA6MxIPf6lh2136Sb0I)
 
 Si deseas conocer más sobre nuestro aprendizaje te invitamos a leer nuestro post en [Medium](medium.com/laboratoria-how-to/api-web-storage-ad9b1efa9b01)
