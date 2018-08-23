@@ -21,10 +21,10 @@ Uno de los beneficios que tiene pertenecer a la asociación es que está te otor
 También, realizamos una entrevista a la emprendora Marlenne. Esta nos conto sobre las motivaciones para emprender, en que consistia su trabajo y de que forma lo lleva a cabo día a día.
 
 
-<p align="center"> Perfil del emprendimiento y al emprendedora </p>
+<p align="center"> Perfil del emprendimiento y la emprendedora </p>
 
 <p align="center">
-  <img src="https://github.com/ConstanzaGarcia/scl-2018-01-ux-marketplace/blob/master/img/perfildelcliente.jpeg">
+  <img src="https://github.com/ConstanzaGarcia/scl-2018-01-ux-marketplace/blob/master/img/malamadregeneral2.jpeg">
 </p>
 
 Luego, hicimos una revisión de la red social en la que funciona el emprendiminto. En ella pudimos conocer sobre cuales eran los productos que realiza, los materiales que utiliza, las telas y la forma en que administra los post y comentarios.
