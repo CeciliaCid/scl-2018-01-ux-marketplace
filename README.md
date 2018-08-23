@@ -14,7 +14,7 @@ Asesorar a uno de los miembros de la Asociación Nacional de Pequeños Comercian
 
 ## Proceso de investigación
 
-Para conocer nuestro emprendimiento realizamos una <b>entrevista en profundidad</b> con la presidenta de la asociación de Nacional de Pequeños Comerciate. De esta forma, conocimos como funciona su asociación, los requisitos que deben cumplir los emprendedores para ser parte de ella y cuales eran las motivaciones para solicitar la asesoria. 
+Para conocer nuestro emprendimiento realizamos una <b>entrevista en profundidad</b> con la secretaria de la asociación de Nacional de Pequeños Comerciate. De esta forma, conocimos como funciona su asociación, los requisitos que deben cumplir los emprendedores para ser parte de ella y cuales eran las motivaciones para solicitar la asesoria. 
 
 Uno de los beneficios que tiene pertenecer a la asociación es que está te otorga un sitio web, con pago de hosting y dominio por dos años para los emprendimientos, con el fin de que estos puedan aumentar las ganancias y llegar a otros publicos.
 
