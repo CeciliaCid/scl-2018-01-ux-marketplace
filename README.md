@@ -172,5 +172,7 @@ Revisa los test de alta [aquí](https://www.youtube.com/watch?v=KJjNfOepMVw&list
 
 Si deseas conocer más sobre nuestro aprendizaje te invitamos a leer nuestro post en [Medium](https://medium.com/@ConstanzaGarcia/5-cosas-que-no-debes-hacer-si-quieres-ser-ux-6d0f7945968d)
 
-[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://www.useloom.com/share/005acfceb8a2491dbc74d9602ff62df2)
+Escucha y ve el demo de nuestro proyecto a continuación.
+
+[![Watch the video](https://github.com/ConstanzaGarcia/scl-2018-01-ux-marketplace/blob/master/img/videlom.PNG)](https://www.useloom.com/share/005acfceb8a2491dbc74d9602ff62df2)
 
