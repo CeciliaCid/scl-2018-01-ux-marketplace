@@ -124,7 +124,7 @@ Con ellos esperamos comenzar a generar contenido en el sitio web para mejorar el
 
 ### Definición de la solución/producto
 
-> Luego de investigar el emprendimiento, consideramos que la solución para mejorar su sistema de ventas es <b> unificar las plataformas de comunicación</b> entre las personas que desean adquirir los productos y la misma dueña de la marca. 
+Luego de investigar el emprendimiento, consideramos que la solución para mejorar su sistema de ventas es <b> unificar las plataformas de comunicación</b> entre las personas que desean adquirir los productos y la misma dueña de la marca. 
 Por ello, vamos a <b>crear un sitio web para concretar las ventas a través de un sistema de compra online con carro de compras el que además tendrá en su interfaz un catalogo de todos los productos que MalaMadre realiza.</b> 
 Se abrirá una cuenta en Facebook que se complementará con la de Instagram que ya existe y su uso será solo para difusión y promoción de los productos, complementado con posteos y/o publicaciones con las experiencias de otras personas que ya hayan adquirido alguno de sus productos. 
 Con esto, esperamos que exista un proceso más expedito y flexible para comprar y despachar los productos de Mala Madre Store. A su vez esperamos que de esta forma pueda llevar un flujo más ordenado de sus ventas y en un período de seis meses comience a ver un incremento en sus ventas.
