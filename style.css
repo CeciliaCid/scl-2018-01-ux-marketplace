@@ -123,3 +123,7 @@ h5{
 a{
     color: #ac8ba7;
 }
+.imgJustify{
+    display: flex;
+    justify-content: center;
+}
