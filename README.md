@@ -187,3 +187,5 @@ Revisa los test de alta [aquí](https://www.youtube.com/watch?v=KJjNfOepMVw&list
 * La planificación del proyecto esta en [Trello](https://trello.com/b/Y12rGUbJ/ux-marketplace)
 
 * Todos los documentos de investigación, los puedes encontrar en [Drive](https://drive.google.com/drive/folders/1Qfq3j5c8QSmQM2A6PDLzWebA8afNvIB6?usp=sharing)
+
+En este proyecto participaron [@CeciliaCid](https://github.com/CeciliaCid/scl-2018-01-ux-marketplace) y [@ConstanzaGarcia](https://github.com/ConstanzaGarcia/scl-2018-01-ux-marketplace)
