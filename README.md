@@ -72,7 +72,7 @@ La información anterior, se complementa con la revisión que realizamos a la cu
 
 |Problema 1 |Problema 2| Problema 3|
 |:----|:---|:---:|
-|No existe una transparencia en los precios. Cuando una persona consulta el valor la emprendedora responde que por interno. Lo que obligatoriamente lleva a que le debas escribir.| No se sabe claramente cuáles son todos los productos que ella confecciona debido a que encuentras una gran variedad de artículos si revisas sus fotos de instagram. | No está claro la forma de compra ni de pago al momento de ingresar a la cuenta de instagram.|
+|No existe una transparencia en los precios. Cuando una persona consulta el valor la emprendedora responde que por interno. Lo que obligatoriamente lleva a que le debas escribir.| No se sabe claramente cuáles son todos los productos que ella confecciona debido a que encuentras una gran variedad de artículos si revisas sus fotos de Instagram. | No está claro la forma de compra ni de pago al momento de ingresar a la cuenta de Instagram.|
 
 |Solución 1 |Solución 2 | Solución 3|
 |:----|:---|:---:|
@@ -124,7 +124,7 @@ Con ellos esperamos comenzar a generar contenido en el sitio web para mejorar el
 
 ### Definición de la solución/producto
 
-> Luego de investigar el emprendimiento, consideramos que la solución para mejorar su sistema de ventas es <b> unificar las plataformas de comunicación</b> entre las personas que desean adquirir los productos y la misma dueña de la marca. 
+Luego de investigar el emprendimiento, consideramos que la solución para mejorar su sistema de ventas es <b> unificar las plataformas de comunicación</b> entre las personas que desean adquirir los productos y la misma dueña de la marca. 
 Por ello, vamos a <b>crear un sitio web para concretar las ventas a través de un sistema de compra online con carro de compras el que además tendrá en su interfaz un catalogo de todos los productos que MalaMadre realiza.</b> 
 Se abrirá una cuenta en Facebook que se complementará con la de Instagram que ya existe y su uso será solo para difusión y promoción de los productos, complementado con posteos y/o publicaciones con las experiencias de otras personas que ya hayan adquirido alguno de sus productos. 
 Con esto, esperamos que exista un proceso más expedito y flexible para comprar y despachar los productos de Mala Madre Store. A su vez esperamos que de esta forma pueda llevar un flujo más ordenado de sus ventas y en un período de seis meses comience a ver un incremento en sus ventas.
@@ -174,9 +174,18 @@ A continuación la demostración del prototipo de alta fidelidad.
 
 Revisa los test de alta [aquí](https://www.youtube.com/watch?v=KJjNfOepMVw&list=PLG0Lqf-2jOXc9ukA6MxIPf6lh2136Sb0I)
 
-Si deseas conocer más sobre nuestro aprendizaje te invitamos a leer nuestro post en [Medium](https://medium.com/@ConstanzaGarcia/5-cosas-que-no-debes-hacer-si-quieres-ser-ux-6d0f7945968d)
+## Links de interés
 
-Escucha y ve el demo de nuestro proyecto a continuación.
+* Conoce más sobre nuestro aprendizaje te invitamos a leer nuestro post en [Medium](https://medium.com/@ConstanzaGarcia/5-cosas-que-no-debes-hacer-si-quieres-ser-ux-6d0f7945968d)
+
+* Mira el demo de nuestro proyecto a continuación:
 
 [![Watch the video](https://github.com/ConstanzaGarcia/scl-2018-01-ux-marketplace/blob/master/img/videlom.PNG)](https://www.useloom.com/share/005acfceb8a2491dbc74d9602ff62df2)
 
+* Revisa la versión desplegada de nuestro proyecto en [aquí](https://ceciliacid.github.io/scl-2018-01-ux-marketplace/index.html)
+
+* La planificación del proyecto esta en [Trello](https://trello.com/b/Y12rGUbJ/ux-marketplace)
+
+* Todos los documentos de investigación, los puedes encontrar en [Drive](https://drive.google.com/drive/folders/1Qfq3j5c8QSmQM2A6PDLzWebA8afNvIB6?usp=sharing)
+
+En este proyecto participaron [@CeciliaCid](https://github.com/CeciliaCid/scl-2018-01-ux-marketplace) y [@ConstanzaGarcia](https://github.com/ConstanzaGarcia/scl-2018-01-ux-marketplace)
