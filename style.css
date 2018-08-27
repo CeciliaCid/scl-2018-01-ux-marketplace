@@ -127,3 +127,7 @@ a{
     display: flex;
     justify-content: center;
 }
+.colJustify{
+    align-items: center;
+}
+
