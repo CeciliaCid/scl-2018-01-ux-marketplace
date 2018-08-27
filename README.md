@@ -57,8 +57,8 @@ La información recolectada por medio de la entrevista nos permitió identificar
 * MalaMadreStore está <b> inserto solo en una red social </b> : Instagram, esto limita su público a solo los usuarios de esa red. 
 * Las  <b>entrega</b>s las realiza solo los días <b>sábado a las 13:30 en el metro Quinta Normal</b>, previo abono de al menos el 50 % del total de la compra. 
 Los usuarios que no pueden ese día deben gestionar una posible entrega en metro Irarrazaval donde la pareja de Marlenne tiene su trabajo y si eres de región, puedes gestionar envió por pagar a través de starken.
-* Ambas opciones de entrega en Santiago, limitan al público que quiere adquirir un producto de un día para otro o en menos tiempo, que tener que esperar el día sábado
-* En sus redes sociales, <b>no existe un catalogo con precios, productos, medidas de productos</b> que permitan a los usuarios ver todo lo que pueden adquirir de la tienda. Esto lleva a que MalaMadreStore, tenga menos venta porque pierde clientes al no dejar clara esta información y que no se dan el trabajo de revisar su Instagram para ver todo lo que hace. 
+* Ambas opciones de entrega en Santiago limitan al público que quiere adquirir un producto de un día para otro o en menos tiempo.
+* En sus redes sociales, <b>no existe un catálogo con precios, productos, medidas de productos</b> que permitan a los usuarios ver todo lo que pueden adquirir de la tienda. Esto lleva a que MalaMadreStore, tenga menos venta porque pierde clientes al no dejar clara esta información y que no se dan el trabajo de revisar su Instagram para ver todo lo que hace. 
 
 |Problema 1 |Problema 2| Problema 3|
 |:----|:---|:---:|
@@ -76,7 +76,7 @@ La información anterior, se complementa con la revisión que realizamos a la cu
 
 |Solución 1 |Solución 2 | Solución 3|
 |:----|:---|:---:|
-|Catalogo con precios claros |Catalogo con todos los productos que ella realiza con diseños y medidas| Gestionar un carrito de compra con detalle y pago online de los productos. |
+|á con precios claros |á con todos los productos que ella realiza con diseños y medidas| Gestionar un carrito de compra con detalle y pago online de los productos. |
 
 
 <p align="center">
@@ -125,7 +125,7 @@ Con ellos esperamos comenzar a generar contenido en el sitio web para mejorar el
 ### Definición de la solución/producto
 
 Luego de investigar el emprendimiento, consideramos que la solución para mejorar su sistema de ventas es <b> unificar las plataformas de comunicación</b> entre las personas que desean adquirir los productos y la misma dueña de la marca. 
-Por ello, vamos a <b>crear un sitio web para concretar las ventas a través de un sistema de compra online con carro de compras el que además tendrá en su interfaz un catalogo de todos los productos que MalaMadre realiza.</b> 
+Por ello, vamos a <b>crear un sitio web para concretar las ventas a través de un sistema de compra online con carro de compras el que además tendrá en su interfaz un á de todos los productos que MalaMadre realiza.</b> 
 Se abrirá una cuenta en Facebook que se complementará con la de Instagram que ya existe y su uso será solo para difusión y promoción de los productos, complementado con posteos y/o publicaciones con las experiencias de otras personas que ya hayan adquirido alguno de sus productos. 
 Con esto, esperamos que exista un proceso más expedito y flexible para comprar y despachar los productos de Mala Madre Store. A su vez esperamos que de esta forma pueda llevar un flujo más ordenado de sus ventas y en un período de seis meses comience a ver un incremento en sus ventas.
 
